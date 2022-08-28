@@ -24,8 +24,6 @@ Nesse desafio, foi proposto desenvolver uma aplicação desktop para gerenciar u
 - Formulário para o usuário preencher o seu endereço.
 - Exibir o total de itens no carrinho no Header.
 - Exibir o valor total da soma de itens no carrinho multiplicados pelo valor.
-  
----
 
 ## 🚀 Tecnologias
 
@@ -60,8 +58,6 @@ $ yarn
   ou
 $ npm install -->
 
----
-
 ## Iniciar a aplicação
 - yarn dev
 
@@ -81,12 +77,8 @@ A aplicação será aberta na porta:5173 - acesse http://localhost:5173
 - yarn add zod
 - yarn add @hookform/resolvers
 
----
-
 ## 📝 Licença
 Esse projeto está sob a licença MIT. Acesse o arquivo [LICENSE](https://github.com/Juliolatorre/LICENSE) para mais detalhes.
-
----
 
 <p align="center">
   <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=00856F&labelColor=000000">
