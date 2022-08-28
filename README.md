@@ -7,6 +7,8 @@
   Coffee Delivery
 </h1>
 
+## 🔖 Layout
+
 <h2 align="center">
   <div>
     <img alt="Logo" title="#logo" src="./src/assets/coffee-delivery.png" width="500"/>
@@ -16,8 +18,9 @@
 <p align="center"> Aplicação desenvolvida no segundo módulo da trilha de React do Ignite 💻🚀 </p>
 
 <p align="center">
-  <a href="##rocket-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="## :point_right: Como instalar">Como instalar</a>&nbsp;&nbsp;&nbsp;
+    <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+    <a href="#rocket-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+    <a href="#-point_right Como instalar">Como instalar</a>&nbsp;&nbsp;&nbsp;
 </p>
 
 ## 📋 Sobre
