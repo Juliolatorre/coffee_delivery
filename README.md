@@ -46,10 +46,9 @@ Para clonar e executar este aplicativo, você precisará do [Git](https://git-sc
 ## Clonar este repositório
 No seu terminal utilize o seguinte comando abaixo:
 
-$ git clone https://github.com/Juliolatorre/coffee_delivery
+git clone https://github.com/Juliolatorre/coffee_delivery
 
-Navegar no repositório
-$ cd coffe-delivery
+Navegar no repositório cd coffe-delivery
 
 ## Instale os pacotes com
  yarn
