@@ -7,6 +7,12 @@
   Coffee Delivery
 </h1>
 
+<h2 align="center">
+  <div>
+    <img alt="Logo" title="#logo" src="./src/assets/coffee-delivery.png" width="400"/>
+  <div>
+</h2>
+
 <p align="center"> Aplicação desenvolvida no segundo módulo da trilha de React do Ignite 💻🚀 </p>
 
 <p align="center">
