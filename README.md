@@ -39,8 +39,6 @@ Este projeto foi desenvolvido com as seguintes tecnologias:
 - [React Hook Form](https://react-hook-form.com/)
 - [Phosphor Icons](https://phosphoricons.com/)
  
-
-
 <!-- ## :point_right: Como instalar
 
 Para clonar e executar este aplicativo, você precisará do [Git](https://git-scm.com) instalado em seu computador. 
@@ -59,6 +57,7 @@ $ yarn
 $ npm install -->
 
 ## Iniciar a aplicação
+
 - yarn dev
 
 A aplicação será aberta na porta:5173 - acesse http://localhost:5173
@@ -83,8 +82,6 @@ Esse projeto está sob a licença MIT. Acesse o arquivo [LICENSE](https://github
 <p align="center">
   <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=00856F&labelColor=000000">
 </p>
-
----
 
 <h3 align="center"> 
  Desenvolvido com 💜 por Júlio Latorre
