@@ -17,12 +17,6 @@
 
 <p align="center"> Aplicação desenvolvida no segundo módulo da trilha de React do Ignite 💻🚀 </p>
 
-<p align="center">
-    <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-    <a href="#rocket-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-    <a href="#-point_right Como instalar">Como instalar</a>&nbsp;&nbsp;&nbsp;
-</p>
-
 ## 📋 Sobre
 
 Nesse desafio, foi proposto desenvolver uma aplicação desktop para gerenciar um carrinho de compras de uma cafeteria fictícia, que contém as seguintes funcionalidades:
