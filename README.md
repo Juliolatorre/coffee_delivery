@@ -39,33 +39,33 @@ Este projeto foi desenvolvido com as seguintes tecnologias:
 - [React Hook Form](https://react-hook-form.com/)
 - [Phosphor Icons](https://phosphoricons.com/)
  
-<!-- ## :point_right: Como instalar
+## :point_right: Como instalar
 
 Para clonar e executar este aplicativo, você precisará do [Git](https://git-scm.com) instalado em seu computador. 
 
-
-
 ## Clonar este repositório
-$ git clone https://github.com/coffe-delivery.git
+No seu terminal utilize os seguintes comandos abaixo:
+
+$ git clone https://github.com/Juliolatorre/coffee_delivery
 
 - Navegue até o repositório
 $ cd coffe-delivery
 
-#instale os pacotes
+#instale os pacotes com
 $ yarn
   ou
-$ npm install -->
+$ npm install
 
 ## Iniciar a aplicação
 
-- yarn dev
+$ yarn dev 
+  ou
+$ npm run dev
 
 A aplicação será aberta na porta:5173 - acesse http://localhost:5173
 
-<br />
-
 ## Dependências Instaladas
-- yarn
+- yarn 
 - yarn add styled-components 
 - yarn add @types/styled-components 
 - yarn add react-router-dom   
@@ -77,7 +77,7 @@ A aplicação será aberta na porta:5173 - acesse http://localhost:5173
 - yarn add @hookform/resolvers
 
 ## 📝 Licença
-Esse projeto está sob a licença MIT. Acesse o arquivo [LICENSE](https://github.com/Juliolatorre/LICENSE) para mais detalhes.
+Esse projeto está sob a licença MIT. Acesse o arquivo [LICENSE](https://github.com/Juliolatorre/coffee_delivery/blob/master/LICENSE) para mais detalhes.
 
 <p align="center">
   <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=00856F&labelColor=000000">
