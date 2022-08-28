@@ -44,27 +44,26 @@ Este projeto foi desenvolvido com as seguintes tecnologias:
 Para clonar e executar este aplicativo, você precisará do [Git](https://git-scm.com) instalado em seu computador. 
 
 ## Clonar este repositório
-No seu terminal utilize os seguintes comandos abaixo:
+No seu terminal utilize o seguinte comando abaixo:
 
 $ git clone https://github.com/Juliolatorre/coffee_delivery
 
-- Navegue até o repositório
+Navegar no repositório
 $ cd coffe-delivery
 
-#instale os pacotes com
-$ yarn
+## Instale os pacotes com
+ yarn
   ou
-$ npm install
+ npm install
 
 ## Iniciar a aplicação
-
-$ yarn dev 
+ yarn dev 
   ou
-$ npm run dev
+ npm run dev
 
 A aplicação será aberta na porta:5173 - acesse http://localhost:5173
 
-## Dependências Instaladas
+## Dependências Utilizadas/Como Instalar 
 - yarn 
 - yarn add styled-components 
 - yarn add @types/styled-components 
@@ -75,6 +74,8 @@ A aplicação será aberta na porta:5173 - acesse http://localhost:5173
 - yarn add react-hook-form 
 - yarn add zod
 - yarn add @hookform/resolvers
+
+(Com NPM ficaria npm install + nome da dependêcia )
 
 ## 📝 Licença
 Esse projeto está sob a licença MIT. Acesse o arquivo [LICENSE](https://github.com/Juliolatorre/coffee_delivery/blob/master/LICENSE) para mais detalhes.
