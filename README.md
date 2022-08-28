@@ -9,7 +9,7 @@
 
 <h2 align="center">
   <div>
-    <img alt="Logo" title="#logo" src="./src/assets/coffee-delivery.png" width="400"/>
+    <img alt="Logo" title="#logo" src="./src/assets/coffee-delivery.png" width="500"/>
   <div>
 </h2>
 
